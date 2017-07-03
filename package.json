@@ -1,0 +1,16 @@
+{
+  "name": "@noncreature0714/devyce-js",
+  "version": "1.0.0",
+  "description": "A generic Node.js library for device interaction.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William W. Brubaker",
+  "license": "ISC",
+  "keywords": [
+    "Device",
+    "template",
+    "library."
+  ]
+}
