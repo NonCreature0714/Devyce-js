@@ -12,5 +12,8 @@
     "Device",
     "template",
     "library."
-  ]
+  ],
+  "dependencies": {
+    "npm": "^5.0.4"
+  }
 }
